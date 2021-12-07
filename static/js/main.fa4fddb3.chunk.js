@@ -2599,7 +2599,8 @@
                     logoURL: "/images/thebunnygang_logo.png",
                     discord: "http://discord.gg/6Wc8qKVyBu",
                     twitter: "https://twitter.com/TheBunnyGangNFT",
-                    website: "https://bunnygang.art/",
+                    website: "https://beatercode.github.io/bunnygang/",
+                    //website: "https://bunnygang.art/",
                     creatorAddress: "0xBfd733F1502dA77b3b249257E52DeAA897543824"
                 }, {
                     contract: "0x53930807383be7139e1da1a758370cd64469ee43",
